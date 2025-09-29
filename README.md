@@ -1,6 +1,7 @@
 <h1>Delwar Hossain </h1>
-<p>Frontend Developer | ThemeForest Author | Web Designer</p>
-- 👀 I’m interested in Web Development
+<p>Frontend Developer | ThemeForest Author | Web Designer</p> <br>
+
+- 👀 I’m interested in Web Development <br>
 - 🌱 I’m currently learning React Js
 
 About-
