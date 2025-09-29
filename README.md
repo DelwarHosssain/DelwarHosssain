@@ -18,7 +18,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DelwarHosssain&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DelwarHosssain&theme=dark&hide_border=false)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DelwarHosssain&show_icons=true&theme=dark&cache_seconds=1800&v=1)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DelwarHosssain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
