@@ -1,5 +1,5 @@
-- Hi, I'm <h1>Delwar Hossain </h1>
-🚀 Frontend Developer | ThemeForest Author | Web Designer
+<h1>Delwar Hossain </h1>
+<p>Frontend Developer | ThemeForest Author | Web Designer</p>
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Js
 
