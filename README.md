@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Development <br>
 - 🌱 I’m currently learning React Js
 
-About-
+About-<br>
 I’m a passionate frontend developer with 3+ years of experience creating stunning, high-quality web templates and responsive designs. I specialize in building ThemeForest-standard websites with developer-friendly code, pixel-perfect UI, and smooth animations.
 
 
