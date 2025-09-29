@@ -24,6 +24,11 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
 ---
 [![](https://visitcount.itsvg.in/api?id=DelwarHosssain&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DelwarHosssain&show_icons=true&theme=dark&cache_seconds=1800&v=1)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DelwarHosssain&theme=dark&hide_border=false&v=1)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
